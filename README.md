@@ -26,13 +26,13 @@ Tujuan utama proyek ini adalah mengembangkan model klasifikasi sentimen berbasis
 
 Berikut adalah *notebook* utama yang berisi langkah-langkah dalam proyek ini:
 
-1. [Exploratory Data Analysis (EDA)](Data Preparation/EDA.ipynb)
-2. [Text Preprocessing](Data Preparation/text_preprocessing.ipynb)
+1. [Exploratory Data Analysis (EDA)](Data%20Preparation/EDA.ipynb)
+2. [Text Preprocessing](Data%20Preparation/text_preprocessing.ipynb)
 3. [Model Training & Evaluation](Models)
-4. [Reports PPT](Reports/PPT Project 1 - Arjuna Rivaldo.pdf)
+4. [Reports PPT](Reports/PPT%20Project%201%20-%20Arjuna%20Rivaldo.pdf)
 
 ## 📁 Sumber Daya
 
-- Dataset yang masih mentah: [tweet.csv](Raw Data/tweet.csv)
-- Dataset yang sudah dibersihkan: [tweet_bersih.csv](Processed Data/tweet_bersih.csv)
-- Dokumen Referensi Project: [NLP Project 1 (Sentiment Analysis)](docs/NLP%20Project%201%20(Sentiment%20Analysis)%20(1).pdf)
+- Dataset yang masih mentah: [tweet.csv](Raw%20Data/tweet.csv)
+- Dataset yang sudah dibersihkan: [tweet_bersih.csv](Processed%20Data/tweet_bersih.csv)
+- Dokumen Referensi Project: [NLP Project 1 (Sentiment Analysis)](...)
