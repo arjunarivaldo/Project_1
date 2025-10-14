@@ -19,3 +19,20 @@ Tujuan utama proyek ini adalah mengembangkan model klasifikasi sentimen berbasis
 ## 📊 **Dataset**
 - Dataset diambil dari Twitter, berisi opini publik terhadap isu politik di Indonesia.
 - Data mencakup teks tweet dan label sentimen (positive, negative, neutral).
+
+-----
+
+## 🚀 Tahapan Proyek
+
+Berikut adalah *notebook* utama yang berisi langkah-langkah dalam proyek ini:
+
+1. [Exploratory Data Analysis (EDA)](Data Preparation/EDA.ipynb)
+2. [Text Preprocessing & Cleaning](Data Preparation/text_preprocessing.ipynb)
+3. [Model Training & Evaluation](Models)
+4. [Reports PPT](Reports/PPT Project 1 - Arjuna Rivaldo.pdf)
+
+## 📁 Sumber Daya
+
+- Dataset yang masih mentah: [tweet.csv](Raw Data/tweet.csv)
+- Dataset yang sudah dibersihkan: [tweet_bersih.csv](Processed Data/tweet_bersih.csv)
+- Dokumen Referensi Project: [NLP Project 1 (Sentiment Analysis)](docs/NLP%20Project%201%20(Sentiment%20Analysis)%20(1).pdf)
