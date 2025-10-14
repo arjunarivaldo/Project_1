@@ -27,7 +27,7 @@ Tujuan utama proyek ini adalah mengembangkan model klasifikasi sentimen berbasis
 Berikut adalah *notebook* utama yang berisi langkah-langkah dalam proyek ini:
 
 1. [Exploratory Data Analysis (EDA)](Data Preparation/EDA.ipynb)
-2. [Text Preprocessing & Cleaning](Data Preparation/text_preprocessing.ipynb)
+2. [Text Preprocessing](Data Preparation/text_preprocessing.ipynb)
 3. [Model Training & Evaluation](Models)
 4. [Reports PPT](Reports/PPT Project 1 - Arjuna Rivaldo.pdf)
 
