@@ -35,4 +35,4 @@ Berikut adalah *notebook* utama yang berisi langkah-langkah dalam proyek ini:
 
 - Dataset yang masih mentah: [tweet.csv](Raw%20Data/tweet.csv)
 - Dataset yang sudah dibersihkan: [tweet_bersih.csv](Processed%20Data/tweet_bersih.csv)
-- Dokumen Referensi Project: [NLP Project 1 (Sentiment Analysis)](...)
+- Dokumen Referensi Project: [NLP Project 1 (Sentiment Analysis)](NLP%20Project%201%20(Sentiment%20Analysis).pdf)
